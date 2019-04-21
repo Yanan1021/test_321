@@ -8,10 +8,7 @@
 public class a
 asdasdadasd
 
-asdasdadasd
-
-
 
 asdasdadasdas
-d
+asdasdd
 
